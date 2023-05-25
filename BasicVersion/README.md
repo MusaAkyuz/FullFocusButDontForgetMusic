@@ -1,0 +1,1 @@
+Only includes Spotify and Edge, Chrome and WhatsApp
